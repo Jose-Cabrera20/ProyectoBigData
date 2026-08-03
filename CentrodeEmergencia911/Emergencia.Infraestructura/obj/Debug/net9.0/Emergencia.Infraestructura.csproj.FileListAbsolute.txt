@@ -1,0 +1,15 @@
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\bin\Debug\net9.0\Emergencia.Infraestructura.deps.json
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\bin\Debug\net9.0\Emergencia.Infraestructura.dll
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\bin\Debug\net9.0\Emergencia.Infraestructura.pdb
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\bin\Debug\net9.0\CentrodeEmergencia.Shared.dll
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\bin\Debug\net9.0\CentrodeEmergencia.Shared.pdb
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.AssemblyInfo.cs
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergenc.4ECE5A83.Up2Date
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.dll
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\refint\Emergencia.Infraestructura.dll
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\Emergencia.Infraestructura.pdb
+C:\Users\joser\source\repos\CentrodeEmergencia911\Emergencia.Infraestructura\obj\Debug\net9.0\ref\Emergencia.Infraestructura.dll

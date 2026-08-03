@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Emergencia.Api.Controllers.GeneradorController",
+    "Method": "GetEstadisticas",
+    "RelativePath": "api/Generador/dashboard-stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Emergencia.Api.Controllers.GeneradorController",
+    "Method": "EnviarIndividual",
+    "RelativePath": "api/Generador/individual",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "llamadaWeb",
+        "Type": "CentrodeEmergencia.Shared.Modelos.LlamadaEmergencia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Emergencia.Api.Controllers.GeneradorController",
+    "Method": "EnviarMasivo",
+    "RelativePath": "api/Generador/masivo/{cantidad}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cantidad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
