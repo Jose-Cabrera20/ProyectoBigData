@@ -34,3 +34,4 @@ C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\CentrodeEmergencia.Shared\
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\CentrodeEmergencia.Shared\obj\Debug\net9.0\refint\CentrodeEmergencia.Shared.dll
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\CentrodeEmergencia.Shared\obj\Debug\net9.0\CentrodeEmergencia.Shared.pdb
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\CentrodeEmergencia.Shared\obj\Debug\net9.0\ref\CentrodeEmergencia.Shared.dll
+C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\CentrodeEmergencia.Shared\obj\Debug\net9.0\CentrodeEmergencia.Shared.sourcelink.json

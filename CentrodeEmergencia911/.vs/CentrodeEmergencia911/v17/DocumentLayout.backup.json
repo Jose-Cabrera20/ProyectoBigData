@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.api\\controllers\\generadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|solutionrelative:emergencia.api\\controllers\\generadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.api\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|solutionrelative:emergencia.api\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\centrodeemergencia.shared\\modelos\\llamadoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|solutionrelative:centrodeemergencia.shared\\modelos\\llamadoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|solutionrelative:emergencia.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.api\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|solutionrelative:emergencia.api\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.api\\controllers\\generadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD6A5D8-F077-47A8-B03B-AB52F407B843}|Emergencia.Api\\Emergencia.Api.csproj|solutionrelative:emergencia.api\\controllers\\generadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\centrodeemergencia.shared\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|solutionrelative:centrodeemergencia.shared\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\centrodeemergencia.shared\\modelos\\llamadoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D0F11E5-A92C-4562-A62B-A7171EC897C9}|CentrodeEmergencia.Shared\\CentrodeEmergencia.Shared.csproj|solutionrelative:centrodeemergencia.shared\\modelos\\llamadoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB4E21C3-390F-4432-9180-6F1FC3496D66}|Emergencia.Consumer\\Emergencia.Consumer.csproj|c:\\users\\joser\\desktop\\proyecto\\centrodeemergencia911\\emergencia.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4E21C3-390F-4432-9180-6F1FC3496D66}|Emergencia.Consumer\\Emergencia.Consumer.csproj|solutionrelative:emergencia.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LlamadoEmergencia.cs",
-              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
-              "RelativeDocumentMoniker": "CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
-              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
-              "RelativeToolTip": "CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T21:19:44.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Enums\\Enums.cs",
-              "RelativeDocumentMoniker": "CentrodeEmergencia.Shared\\Enums\\Enums.cs",
-              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Enums\\Enums.cs",
-              "RelativeToolTip": "CentrodeEmergencia.Shared\\Enums\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T21:19:40.62Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Emergencia.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Consumer\\Program.cs",
+              "RelativeToolTip": "Emergencia.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T21:41:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LlamadoEmergencia.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
+              "RelativeDocumentMoniker": "CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
+              "RelativeToolTip": "CentrodeEmergencia.Shared\\Modelos\\LlamadoEmergencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T21:19:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "CentrodeEmergencia.Shared\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\CentrodeEmergencia.Shared\\Enums\\Enums.cs",
+              "RelativeToolTip": "CentrodeEmergencia.Shared\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T21:19:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KafkaProducerService.cs",
               "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Api\\Services\\KafkaProducerService.cs",
               "RelativeDocumentMoniker": "Emergencia.Api\\Services\\KafkaProducerService.cs",
               "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Api\\Services\\KafkaProducerService.cs",
               "RelativeToolTip": "Emergencia.Api\\Services\\KafkaProducerService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDcAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T21:19:16.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KafkaConsumerService.cs",
               "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Api\\Services\\KafkaConsumerService.cs",
               "RelativeDocumentMoniker": "Emergencia.Api\\Services\\KafkaConsumerService.cs",
               "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Api\\Services\\KafkaConsumerService.cs",
               "RelativeToolTip": "Emergencia.Api\\Services\\KafkaConsumerService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T21:19:09.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GeneradorController.cs",
               "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\CentrodeEmergencia911\\Emergencia.Api\\Controllers\\GeneradorController.cs",
               "RelativeDocumentMoniker": "Emergencia.Api\\Controllers\\GeneradorController.cs",

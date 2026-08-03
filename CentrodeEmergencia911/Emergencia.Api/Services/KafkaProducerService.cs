@@ -15,7 +15,6 @@ namespace Emergencia.Api.Services
             {
                 BootstrapServers = config["KafkaConfiguration:BootstrapServers"],
 
-                // Optimizaciones para soportar ráfagas masivas sin perder datos
                 LingerMs = 10,
                 BatchSize = 32768,
                 Acks = Acks.Leader
@@ -24,12 +23,10 @@ namespace Emergencia.Api.Services
             _producer = new ProducerBuilder<string, string>(producerConfig).Build();
         }
 
-        // Método para enviar una sola llamada
         public async Task EnviarLlamadaAsync(LlamadaEmergencia llamada)
         {
             var mensajeJson = JsonSerializer.Serialize(llamada);
 
-            // DistritoId como Key para asegurar el particionamiento
             var mensajeKafka = new Message<string, string>
             {
                 Key = llamada.DistritoId,
@@ -39,7 +36,6 @@ namespace Emergencia.Api.Services
             await _producer.ProduceAsync(_topic, mensajeKafka);
         }
 
-        // Método para simular el pico de 5000 peticiones
         public void EnviarRafaga(IEnumerable<LlamadaEmergencia> llamadas)
         {
             foreach (var llamada in llamadas)
@@ -53,7 +49,6 @@ namespace Emergencia.Api.Services
                 });
             }
 
-            // Forza el vaciado del búfer para asegurar que todo se envíe
             _producer.Flush(TimeSpan.FromSeconds(10));
         }
 

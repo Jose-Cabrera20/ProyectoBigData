@@ -17,7 +17,7 @@ namespace Emergencia.Api.Services
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            // Esperar 3 segundos para asegurar que la API ya encendió por completo antes de escuchar Kafka
+        
             await Task.Delay(3000, stoppingToken);
 
             var bootstrapServers = _configuration["KafkaConfiguration:BootstrapServers"];
@@ -31,7 +31,7 @@ namespace Emergencia.Api.Services
                 EnableAutoCommit = true
             };
 
-            // Ejecutar el consumidor en un hilo separado para que nunca congele la API
+            
             _ = Task.Run(async () =>
             {
                 try
@@ -50,7 +50,7 @@ namespace Emergencia.Api.Services
                             {
                                 var mensajeJson = consumeResult.Message.Value;
 
-                                // Guardar en MongoDB usando un scope seguro
+                               
                                 using (var scope = _serviceProvider.CreateScope())
                                 {
                                     var connectionString = _configuration["MongoDbConfiguration:ConnectionString"];
@@ -68,7 +68,7 @@ namespace Emergencia.Api.Services
                         }
                         catch (ConsumeException)
                         {
-                            // Ignorar timeouts de lectura para mantener el ciclo fluido
+                           
                         }
                     }
                     consumer.Close();
