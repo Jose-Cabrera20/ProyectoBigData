@@ -21,7 +21,7 @@ La arquitectura implementa **Apache Kafka** como sistema de mensajería distribu
 
 ### 1. Clonar el repositorio
 
-git clone [https://github.com/usuario/repositorio.git](https://github.com/usuario/repositorio.git)
+git clone https://github.com/Jose-Cabrera20/ProyectoBigData/tree/main/CentroDeEmergencia911UI
 
 ### 2. Levantar Kafka y Zookeeper
 Ubicarse en la carpeta donde se encuentra el archivo docker-compose.yml y ejecutar:

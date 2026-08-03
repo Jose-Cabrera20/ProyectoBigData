@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emergencia.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+677d8dfbe981a0b8a1e31ea99e7f63603df6bc24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emergencia.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emergencia.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

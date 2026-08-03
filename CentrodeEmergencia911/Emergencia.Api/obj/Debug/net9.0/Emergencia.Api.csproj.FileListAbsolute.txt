@@ -202,3 +202,4 @@ C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\Emergencia.Api\obj\Debug\n
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\Emergencia.Api\obj\Debug\net9.0\Emergencia.Api.pdb
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\Emergencia.Api\obj\Debug\net9.0\Emergencia.Api.genruntimeconfig.cache
 C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\Emergencia.Api\obj\Debug\net9.0\ref\Emergencia.Api.dll
+C:\Users\joser\Desktop\Proyecto\CentrodeEmergencia911\Emergencia.Api\obj\Debug\net9.0\Emergencia.Api.sourcelink.json
